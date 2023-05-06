@@ -1,0 +1,7 @@
+CREATE TABLE staff (
+  staff_id INT PRIMARY KEY,
+  name VARCHAR(255),
+  job_title VARCHAR(255),
+  department VARCHAR(255),
+  contact_info VARCHAR(255)
+);

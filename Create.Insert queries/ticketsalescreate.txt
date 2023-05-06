@@ -1,0 +1,7 @@
+CREATE TABLE ticket_sales (
+  ticket_id INT PRIMARY KEY,
+  visitor_id INT,
+  exhibition_id INT,
+  purchase_date DATE,
+  ticket_type VARCHAR(255)
+);

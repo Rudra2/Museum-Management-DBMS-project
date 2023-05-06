@@ -1,0 +1,8 @@
+CREATE TABLE artifacts (
+  artifact_id INT PRIMARY KEY,
+  name VARCHAR(255),
+  description TEXT,
+  category VARCHAR(255),
+  acquisition_date DATE,
+  donor_name VARCHAR(255)
+);

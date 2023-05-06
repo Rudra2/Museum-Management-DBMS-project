@@ -1,0 +1,26 @@
+INSERT INTO exhibitions (exhibition_id, name, description, start_date, end_date, curator_name)
+VALUES 
+(1, 'Impressionist Masterpieces', 'A collection of paintings by famous impressionist artists', '2022-05-01', '2022-07-31', 'John Smith'),
+(2, 'Medieval Artifacts', 'A display of artifacts from the Middle Ages', '2022-09-01', '2022-11-30', 'Sarah Johnson'),
+(3, 'Contemporary Sculptures', 'A showcase of modern sculptures by emerging artists', '2023-01-01', '2023-03-31', 'David Lee'),
+(4, 'Ancient Egyptian Treasures', 'A rare exhibition of artifacts from ancient Egypt', '2023-05-01', '2023-07-31', 'Amy Chen'),
+(5, 'Impressionist Landscapes', 'A collection of impressionist landscape paintings', '2023-09-01', '2023-11-30', 'John Smith'),
+(6, 'Medieval Manuscripts', 'An exhibition of medieval illuminated manuscripts', '2024-01-01', '2024-03-31', 'Sarah Johnson'),
+(7, 'Modern Photography', 'A showcase of contemporary photography', '2024-05-01', '2024-07-31', 'David Lee'),
+(8, 'Impressionist Women', 'A collection of impressionist paintings featuring women', '2024-09-01', '2024-11-30', 'Amy Chen'),
+(9, 'Ancient Greek Artifacts', 'A rare exhibition of artifacts from ancient Greece', '2025-01-01', '2025-03-31', 'John Smith'),
+(10, 'Abstract Art', 'A collection of abstract paintings and sculptures', '2025-05-01', '2025-07-31', 'Sarah Johnson'),
+(11, 'Baroque Masterpieces', 'A display of masterpieces from the Baroque period', '2025-09-01', '2025-11-30', 'David Lee'),
+(12, 'Renaissance Art', 'An exhibition of Renaissance paintings and sculptures', '2026-01-01', '2026-03-31', 'Amy Chen'),
+(13, 'Impressionist Still Lifes', 'A collection of impressionist still life paintings', '2026-05-01', '2026-07-31', 'John Smith'),
+(14, 'Asian Art', 'A showcase of art from various Asian cultures', '2026-09-01', '2026-11-30', 'Sarah Johnson'),
+(15, 'Modern Art', 'An exhibition of modern art from the 20th century', '2027-01-01', '2027-03-31', 'David Lee'),
+(16, 'Impressionist Seascapes', 'A collection of impressionist paintings featuring the sea', '2027-05-01', '2027-07-31', 'Amy Chen'),
+(17, 'Egyptian Artifacts', 'An exhibition of artifacts from ancient Egypt', '2027-09-01', '2027-11-30', 'John Smith'),
+(18, 'Classical Art', 'A display of classical art from ancient Greece and Rome', '2028-01-01', '2028-03-31', 'Sarah Johnson');
+(19, 'Modern Art in America', 'A showcase of contemporary American art', '2023-07-01', '2023-12-31', 'Sarah Johnson'),
+(20, 'The Art of Nature', 'An exhibition of natural history art', '2024-02-01', '2024-06-30', 'David Lee');
+
+
+
+INSERT INTO exhibitions (exhibition_id, name, description, start_date, end_date, curator_name) VALUES (19, 'Modern Art in America', 'A showcase of contemporary American art', '2023-07-01', '2023-12-31', 'Sarah Johnson'), (20, 'The Art of Nature', 'An exhibition of natural history art', '2024-02-01', '2024-06-30', 'David Lee');

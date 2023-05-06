@@ -1,0 +1,8 @@
+CREATE TABLE exhibitions (
+  exhibition_id INT PRIMARY KEY,
+  name VARCHAR(255),
+  description TEXT,
+  start_date DATE,
+  end_date DATE,
+  curator_name VARCHAR(255)
+);
